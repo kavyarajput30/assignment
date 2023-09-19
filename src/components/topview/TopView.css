@@ -1,0 +1,32 @@
+#main_top-view{
+    background-color: #202125;
+    height: 800px;
+    position: absolute;
+    top:100px;
+    width:100%;
+}
+#top-view-content{
+position: absolute;
+top:208px;
+left:250px;
+}
+#top-view-boxes{
+    background-color: lightpink;
+    width:1013px;
+    height: 140px;
+    position: absolute;
+    top:687px;
+    left:250px;
+    gap:40px;
+    display: flex;
+    justify-content: space-between;
+}
+#ellipce{
+    width:387px;
+    height: 122px;
+    border:1px solid #FFB000;
+    position: absolute;
+    top:208px;
+    left:692px;
+    border-radius: 50%;
+}
