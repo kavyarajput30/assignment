@@ -1,0 +1,30 @@
+#main-testimonial-div{
+    /* background-color: seagreen; */
+    width:1133px;
+    height: 566px;
+    position: absolute;
+    top:3856px;
+    margin: auto;
+    left:350px;
+}
+#main-testimonial-div h1{
+  text-align: center;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 60px;
+  color:#202125;
+}
+#testimonial-card-cont{
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+   gap:10px
+}
+#testimonial-heading-rectangle{
+  background-color:  #FFBB0040;
+  width:255px;
+  height: 17px;
+  position: absolute;
+  top:60px;
+  left:520px
+}
